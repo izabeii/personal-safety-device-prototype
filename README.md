@@ -10,7 +10,7 @@ This project is a personal safety device prototype developed using an ESP8266 mi
 
 A demonstration video of the prototype can be found here:
 
-`personal_safety_device_demo.mp4`
+[Demonstration Video](./personal_safety_device_demo.mp4)
 
 ## Circuit Design
 
