@@ -16,19 +16,19 @@ A demonstration video of the prototype can be found here:
 
 The hardware architecture is shown in:
 
-`circuit_schematic.png`
+[Circuit Schematic](./circuit_schematic.png)
 
 ## Firmware
 
 The Arduino source code is located in:
 
-`firmware/personal_safety_device.ino`
+[Firmware Source Code](./firmware/personal_safety_device.ino)
 
 ## GPS System Design
 
 The GPS architecture documentation is available in:
 
-`GPS System Architecture.pdf`
+[GPS System Architecture](./GPS%20System%20Architecture.pdf)
 
 This project is a personal safety device prototype developed using an ESP8266 microcontroller, GPS technologies, embedded electronics, and wireless communication systems.
 
