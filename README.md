@@ -1,5 +1,34 @@
 **Personal Safety Device Prototype**
 **Overview**
+# Personal Safety Device Prototype
+
+## Overview
+
+This project is a personal safety device prototype developed using an ESP8266 microcontroller.
+
+## Demonstration
+
+A demonstration video of the prototype can be found here:
+
+`personal_safety_device_demo.mp4`
+
+## Circuit Design
+
+The hardware architecture is shown in:
+
+`circuit_schematic.png`
+
+## Firmware
+
+The Arduino source code is located in:
+
+`firmware/personal_safety_device.ino`
+
+## GPS System Design
+
+The GPS architecture documentation is available in:
+
+`GPS System Architecture.pdf`
 
 This project is a personal safety device prototype developed using an ESP8266 microcontroller, GPS technologies, embedded electronics, and wireless communication systems.
 
@@ -41,18 +70,10 @@ Automatic system reset after activation
 
 **Demonstration**
 
-A demonstration video of the prototype in operation is included:
+A demonstration video of the prototype in operation is included. It shows hardware testing and operation of the prototype during development.
 
-personal_safety_device_demo.mp4
 
-The video shows hardware testing and operation of the prototype during development.
-
-**Circuit Design**
-
-The repository includes a circuit schematic illustrating the hardware architecture of the system:
-
-Circuit_Schematic.png
-
+The repository includes a circuit schematic illustrating the hardware architecture of the system.
 The schematic shows the relationships between the ESP8266 microcontroller, power system, LED control circuitry, sensors, and peripheral components used during development.
 
 **Firmware**
@@ -68,10 +89,6 @@ Ultrasonic output control
 Activation logic
 Device safety functions
 
-Source code can be found in:
-
-Plain Text
-firmware/personal_safety_device.ino
 
 **GPS and System Design**
 
@@ -84,22 +101,6 @@ Data storage concepts
 Wireless communication
 Device synchronisation
 Location-data management
-
-Documentation:
-
-Plain Text
-GPS Code 2.pdf
-Technical Skills Demonstrated
-Arduino Development
-Embedded Systems
-ESP8266 Programming
-Circuit Design
-Electronics Prototyping
-Hardware Testing
-System Integration
-GPS Technologies
-Location-Based Systems
-Technical Documentation
 
 
 **Challenges**
