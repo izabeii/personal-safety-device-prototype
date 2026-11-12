@@ -138,7 +138,7 @@ Mobile application integration
 Cloud-based data services
 Project Status
 
-Prototype Complete
+Prototype: Complete
 
 This project was developed as a proof-of-concept prototype and learning exercise exploring embedded systems, GPS technologies, and hardware development.
 
