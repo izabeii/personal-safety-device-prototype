@@ -1,6 +1,5 @@
 *personal-safety-device-prototype*
 
-*An ESP8266-based personal safety device prototype featuring GPS logging, LED strobe alerts and embedded system control.*
 
 This project is a personal safety device prototype developed using an ESP8266 microcontroller, GPS tracking, local data storage, and wireless communication capabilities.
 
